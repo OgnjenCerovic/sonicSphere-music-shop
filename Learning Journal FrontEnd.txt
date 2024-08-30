@@ -1,0 +1,20 @@
+Week 1 to Week 6: Vue.js
+
+During the first six weeks, I learned about Vue.js, a JavaScript framework for building user interfaces. I started by understanding the basics, like how Vue components work and how to use directives like v-if, v-for, and v-bind. I also learned about Vue's reactivity system, which automatically updates the DOM when the underlying data changes.
+
+As I progressed, I got familiar with more advanced topics, such as Vue Router for handling navigation and Vuex for state management. I practiced creating small projects to reinforce my understanding, which was given by our lecturer Dusan. By the end of the six weeks, I felt comfortable using Vue.js to build interactive web applications, even though i had struggles throughout.
+
+I find Vue a bit harder then React.
+
+Week 7 to Week 12: React.js
+
+The next six weeks were focused on React.js, another popular JavaScript library for building user interfaces. React is different from Vue, so it took some time to adjust to the new concepts. I started by learning about JSX, which allows us to write HTML-like code inside JavaScript. I also learned about components in React, which are more focused on being reusable and managing their own state.
+
+As I moved forward, I explored React hooks like useState and useEffect, which make it easier to manage state and side effects in functional components. I also spent time understanding React Router for navigation and tried using Context API to manage state across different parts of my application.
+
+Throughout these weeks, I built a few small projects with React, which was given by our lecturer. By the end of this period, I had a solid understanding of how to work with React and appreciated its component-based architecture.
+
+I choose React over Vue and find it more simple to work with!
+
+Week 13: Group Project
+Here we did a group project where i really enjoyed working with my colleague in making a book related website. We worked in React and really did our best!

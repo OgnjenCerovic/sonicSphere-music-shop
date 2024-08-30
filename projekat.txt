@@ -1,0 +1,72 @@
+anonymous visitor:
+    login       => OK (provereno)
+    register    => OK (provereno)
+
+buyer:
+    -view, search and filter music  => OK (provereno)
+    -purchase music => OK (provereno)
+    -download music => OK (provereno)
+    -view and edit his own profile => OK (provereno)
+    -add and view rating and review for music => OK (provereno)
+
+admin:
+    -create, edit and delete music => OK (provereno)
+    -create, edit and delete albums => OK (provereno)
+    -view analytics data
+    -view, edit and delete users => OK (provereno)
+    -view, edit and delete reviews and ratings => OK (provereno)
+
+users_u:
+    u_id
+    u_name
+    u_last_name
+    u_email
+    u_phone
+    u_status(user,admin)
+    u_modified_at
+    u_created_at
+
+music_m:
+    m_id
+    m_title
+    m_description
+    m_media
+    m_modified_at
+    m_created_at
+
+purchases_p:
+    p_id
+    p_music_id
+    p_user_id
+    p_modified_at
+    p_created_at
+
+ratings_ra:
+    ra_id
+    ra_music_id
+    ra_user_id
+    ra_rating
+    ra_modified_at
+    ra_created_at
+
+reviews_rw:
+    rw_id
+    rw_music_id
+    rw_user_id
+    rw_comment
+    rw_modified_at
+    rw_created_at
+
+album_a:
+    a_id
+    a_title
+    a_description
+    a_modified_at
+    a_created_at
+
+collections_c:
+    c_id
+    c_music_id
+    c_album_id
+    c_modified_at
+    c_created_at

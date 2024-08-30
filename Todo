@@ -1,0 +1,65 @@
+##### kreiranje laravel projekta
+composer global require laravel/installer
+laravel new music-store-backend
+cd music-store-backend
+
+# Kreiranje Migracija
+php artisan make:migration create_users_table
+php artisan make:migration create_music_table
+php artisan make:migration create_purchases_table
+php artisan make:migration create_ratings_table
+php artisan make:migration create_reviews_table
+php artisan make:migration create_albums_table
+php artisan make:migration create_collections_table
+    -putanja je database/migrations/
+
+php artisan migrate 
+
+--
+
+# kreiranje modela
+php artisan make:model User
+php artisan make:model Music
+php artisan make:model Purchase
+php artisan make:model Rating
+php artisan make:model Review
+php artisan make:model Album
+php artisan make:model Collection
+
+##### kreiranje react projekta
+npm create vite@latest music-store-frontend --template react
+cd music-store-frontend
+npm install
+npm install bootstrap
+npm run dev
+npm install axios react-router-dom
+
+##### login i register
+# Implementacija Backend-a za Autentifikaciju
+composer require laravel/sanctum
+php artisan vendor:publish --provider="Laravel\Sanctum\SanctumServiceProvider"
+php artisan migrate
+php artisan make:controller AuthController
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##### Pokretanje Laravel Backend-a
+php artisan serve
+
+##### Pokretanje React Frontend-a
+npm run dev

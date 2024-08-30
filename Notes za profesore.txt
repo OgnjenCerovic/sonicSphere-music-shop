@@ -1,0 +1,15 @@
+Iako sam projekat zapoceo pocetkom avgusta, zbog posla sam bio odsutan gotovo citav mesec, gde nisam bio ni u zemlji. Stoga, moj dizajn nije na nivou. 
+Zanimljiva stvar je da je dizajn moj omiljeni deo, i da mi je i cilj da se profilisem kao UX/UI dizajner, ali sam shvatio da se ovaj final project najvise zasniva na funkcionalnosti i upravo zbog toga je moj fokus najvise bio na tome. 
+Nisam hteo nista da ostavljam na pola, vec sam ga ucinio vrlo jednostavnim, sa odredjenim 'tweakovima'. Plan mi je da ga tokom ovog semestra kompletno uradim po mojoj viziji, sa postojecim frontom i bekom, za koji sam dao svoj maksimum.
+
+Generalno, postoje neki bagovi, prilikom reviewa i ratinga dodje do 'crasha' stranice, iako je interakcija sa bazom dobra i uneti podaci ostanu umemorisani.
+Takodje sa reloadom stranice prilikom logovanja, ali mislim da je to do Bootstrapa. Desavalo mi se i ranije...
+
+Sto se tice funkcionalnosti, sve sam vise puta proverio i radilo je. 
+
+Imam i admin(Jovan koliko se secam) deo i korisnicki, i zadovoljan sam da sam uspeo.
+
+Imao sam potrebu sve ovo da vam napisem i nadam se da mi ne zamerate!
+Ognjen
+
+

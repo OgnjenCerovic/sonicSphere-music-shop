@@ -1,0 +1,24 @@
+.search-form{
+    display: flex;
+    column-gap: 20px;
+}
+.navbar{
+    background-color: #2C2C2C !important;
+}
+
+.navbar-nav .nav-item {
+    margin-right: 30px;
+}
+
+.navbar-nav .nav-item button, a{
+    color: white !important;
+}
+
+.search-form input::placeholder{
+    padding-left: 10px;
+    font-style: italic;
+}
+
+.dropdown .dropdown-item .nav-link{
+    color: black !important;
+}

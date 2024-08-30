@@ -1,0 +1,22 @@
+Week 1-2: Laravel Introduction and Basics
+
+In the first two weeks, I started with the basics of Laravel. I learned how to set up the framework, understand its folder structure, and work with routes, controllers, and views. This helped me get comfortable with how Laravel organizes code and handles requests.
+
+Week 3-4: Laravel Database and Forms
+
+Weeks three and four were focused on working with databases and forms. I learned about Laravel's Eloquent ORM, which simplifies database operations. I practiced creating migrations, models, and performing CRUD operations. I also explored how to build forms, handle form submissions, and validate data, ensuring the integrity of user inputs.
+
+Week 5-6: Authentication and Authorization
+
+During weeks five and six, I dove into Laravel's authentication and authorization systems. I set up user registration, login, and password reset features. I also learned how to protect routes with middleware and how to manage user roles and permissions, making sure users only access what they’re allowed to.
+
+Week 7-8: Laravel Queues, Events & Listeners
+
+Weeks seven and eight were all about learning how Laravel handles background tasks and event-driven development. I explored queues to manage time-consuming tasks asynchronously, and I learned how to use events and listeners to decouple different parts of the application. This made my application more efficient and easier to maintain.
+
+Week 9-12: Laravel Testing, Integration, Delivery, and Deployment
+
+In the last four weeks, I focused on testing and deploying a Laravel application. I learned how to write unit and feature tests to ensure my code works as expected. I also explored continuous integration and delivery (CI/CD) pipelines to automate testing and deployment. Finally, I practiced deploying a Laravel app to a production server, ensuring it’s secure and runs smoothly.
+
+Week 13: Project
+In this week we started developing the backend for our final projects. Fun times!
